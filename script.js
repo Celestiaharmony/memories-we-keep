@@ -7,7 +7,8 @@ const dataPengguna = {
   "maya": { nama: "Maya", grup: 2 },
   "naura": { nama: "Naura", grup: 2 },
   "puput": { nama: "Puput", grup: 2 },
-  "halma": { nama: "Halma", grup: 3 }
+  "halma": { nama: "Halma", grup: 3 },
+  "auri": { nama: "Auri", grup:3 }
 };
 
 // SURAT PERSONAL — paste isi aslimu di sini
@@ -19,8 +20,9 @@ const suratPersonal = {
   "Maya": "Halo Maya, gimana kabarmu? Ternyata kita udah temenan lama ya. Aku kira cuma beberapa minggu, ternyata dari MI—eh malah dari TK 😆 Sampai sekarang aku masih nggak tau cowo kamu siapa, tapi ya itu urusanmu sih. Waktu bener-bener jalan tanpa kerasa ya, tahu-tahu kita udah sampai sejauh ini. Semoga ke depannya kamu selalu baik-baik aja. Udah ya, cerocosanku yang nggak jelas ini. Jaga kesehatanmu, sampai jumpa di lain waktu.",
   "Naura": "Hey Naura, makasih ya udah mau aku repotin, padahal kamu juga punya banyak hal yang harus kamu urusin. Kadang aku mikir, nggak semua orang bakal sebaik itu mau direpotin tapi tetap jawab dengan sabar—dan kamu salah satunya. Btw, kamu masih sama adik kelas itu nggak? Aku masih kepo sih 😄 tapi lebih dari itu, aku cuma berharap kamu bener-bener bahagia sama pilihanmu. Nggak kerasa ya, kita udah sampai di titik ini. Rasanya baru kemarin ngobrol hal-hal kecil, sekarang pelan-pelan semuanya berubah. Semoga ke depan, apa pun yang kamu jalani, kamu tetap jadi Naura yang aku kenal—yang baik, sabar, dan tulus. Sampai jumpa di pertemuan berikutnya ya. Jaga diri baik-baik.",
   "Puput": "Hey, ceweknya Tegar 😆 Gimana, masih sama dia kan? Masih rese nggak? Terakhir kamu bilang dia suka ubah foto kamu jadi stiker ya. Tapi tau nggak, stiker yang kamu tunjukin ke aku waktu itu… kamu manis banget di situ. Kalau aku jadi semut, mungkin aku bakal minta tolong satu miliar saudara buat bawa kamu ke sarang 😄 Nggak kerasa ya semuanya berubah pelan-pelan sampai kita ada di titik sekarang. Semoga ke depan kamu tetap bahagia. Sampai jumpa di pertemuan berikutnya!",
-  "Halma": "Nggak kerasa ya, sudah 5 tahun kita bersama. Kita udah kayak saudara tanpa ikatan darah. Kamu inget nggak awal kita kenal? Dulu aku terlalu ansos dan nggak mau bergaul sama anak-anak kelas. Tapi kamu datang dan tetap nemenin aku, walaupun aku acuh tak acuh waktu itu. Makasih ya. Kamu selalu jadi tempat terbaik buat aku pulang. Makasih juga udah nemenin kegilaan aku ngejar cowo—walaupun ujung-ujungnya gagal 😭 Kayaknya semua aib dan kisah percintaanku yang ampas itu kamu simpan ya. Aku tau kelulusan ini bukan akhir segalanya, tapi awal perjalanan baru ke dunia yang lebih besar. Aku harap, walaupun nanti kita terpisah jarak dan waktu, kita tetap bisa bersama dalam keadaan apa pun. Kalau kamu butuh tempat untuk bersandar, aku selalu ada di sini, di tempat yang sama."
-};
+  "Halma": "Nggak kerasa ya, sudah 5 tahun kita bersama. Kita udah kayak saudara tanpa ikatan darah. Kamu inget nggak awal kita kenal? Dulu aku terlalu ansos dan nggak mau bergaul sama anak-anak kelas. Tapi kamu datang dan tetap nemenin aku, walaupun aku acuh tak acuh waktu itu. Makasih ya. Kamu selalu jadi tempat terbaik buat aku pulang. Makasih juga udah nemenin kegilaan aku ngejar cowo—walaupun ujung-ujungnya gagal 😭 Kayaknya semua aib dan kisah percintaanku yang ampas itu kamu simpan ya. Aku tau kelulusan ini bukan akhir segalanya, tapi awal perjalanan baru ke dunia yang lebih besar. Aku harap, walaupun nanti kita terpisah jarak dan waktu, kita tetap bisa bersama dalam keadaan apa pun. Kalau kamu butuh tempat untuk bersandar, aku selalu ada di sini, di tempat yang sama.",
+  "Auri": "Hai, Auri. Jika kamu membaca surat ini, berarti kamu telah menemukan satu sudut kecil dari dunia yang sedang kubangun. Di sini, setiap kenangan punya tempatnya sendiri. Dan kali ini, surat ini bukan untuk seseorang dari masa laluku, melainkan untuk siapa pun yang datang berkunjung. Terima kasih sudah mampir. Semoga kamu menemukan sesuatu yang ingin kamu ingat, bahkan setelah halaman ini kamu tutup. A little note from the creator ♡"
+  };
 
 // SPOTIFY PLAYLIST ID
 const spotifyPlaylist = {
